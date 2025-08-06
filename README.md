@@ -1,4 +1,5 @@
-#🪨📄✂️ Jokenpo (Pedra, Papel e Tesoura)
+🪨📄✂️ Jokenpo (Pedra, Papel e Tesoura)
+
 Este é um projeto simples feito em HTML, CSS (opcional) e JavaScript, que simula uma partida de Jokenpo (Pedra, Papel e Tesoura) entre o jogador e a máquina.
 
 🚀 Como funciona
